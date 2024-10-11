@@ -1,5 +1,5 @@
 Hi there 👋
-I'm Quang Huynh 🌟💻
+# I'm Quang Huynh 🌟💻
 ---
 - 🎓 College Student at RIT
 - 📚 BS/MS in Computer Science (Accelerated Scholar)
