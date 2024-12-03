@@ -28,9 +28,7 @@
   
   <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-      <img title="Github streaks" alt="Quang's streak" src="https://streak-stats.demolab.com/?user=quangshuynh&theme=monokai-metallian"/>
-    </a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=quangshuynh&theme=monokai-metallian" alt="GitHub Streak" /></a>
   </p>
 
 
