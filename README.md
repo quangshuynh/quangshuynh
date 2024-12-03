@@ -16,4 +16,5 @@
 ## 📊 GitHub Stats:
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quangshuynh&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quangshuynh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
 | ------------- | ------------- |
+[![GitHub Streak](https://streak-stats.demolab.com/?user=quangshuynh&theme=dark)](https://git.io/streak-stats)
 ---
