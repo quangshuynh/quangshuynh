@@ -1,6 +1,7 @@
-Hi there 👋
-# I'm Quang Huynh 🌟💻
----
+<p align="center"><a href="https://quangshuynh/portfolio"><img width="80%" alt="Quang Huynh Github Header" src="./assets/github-readme-header.png" /></a></p>
+
+</br>
+
 - 🎓 College Student at RIT
 - 📚 BS/MS in Computer Science (Accelerated Scholar)
 - 🔍 Interested in Machine Learning, AI, and Back-End Development
