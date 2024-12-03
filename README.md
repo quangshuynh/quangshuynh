@@ -4,7 +4,7 @@
 
 - 🎓 College Student at RIT
 - 📚 BS/MS in Computer Science (Accelerated Scholar)
-- 🔍 Interested in Machine Learning, AI, and Back-End Development
+- 🔍 Interested in Machine Learning, AI, and Backend Development
 - 🏅 Honors: RIT Presidential Scholarship, Richard T. Cheng Endowed Scholar, Farash Foundation’s First in Family Scholar
 
 
