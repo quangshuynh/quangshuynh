@@ -12,7 +12,7 @@
   
 ## 💻 Tech Stack:
 <!-- https://icons8.com/icon/set/java/plasticine -->
-![Python](https://img.icons8.com/?size=100&id=YX03OUiHE3rz&format=png&color=000000) ![Java](https://img.icons8.com/?size=100&id=FBycNmdwUQz1&format=png&color=000000) ![C](https://img.icons8.com/?size=100&id=mfkStOwP4EC0&format=png&color=000000) ![HTML5](https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000) ![CSS3](https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000) ![JavaScript](https://img.icons8.com/?size=100&id=gYCTehfTlYk5&format=png&color=000000) ![Git](https://img.icons8.com/?size=100&id=iEBcQcM9rnZ9&format=png&color=000000) 
+![Python](https://img.icons8.com/?size=50&id=YX03OUiHE3rz&format=png&color=000000) ![Java](https://img.icons8.com/?size=100&id=FBycNmdwUQz1&format=png&color=000000) ![C](https://img.icons8.com/?size=100&id=mfkStOwP4EC0&format=png&color=000000) ![HTML5](https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000) ![CSS3](https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000) ![JavaScript](https://img.icons8.com/?size=100&id=gYCTehfTlYk5&format=png&color=000000) ![Git](https://img.icons8.com/?size=100&id=iEBcQcM9rnZ9&format=png&color=000000) 
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
