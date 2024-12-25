@@ -8,11 +8,19 @@
 
 
 ## 🌐 Contact:
-[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://linkedin.com/in/quangs)  [![Email](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-48.png)](mailto:qth9368@rit.edu)
+[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://linkedin.com/in/quangs)  
+[![Email](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-48.png)](mailto:qth9368@rit.edu)
   
 ## 💻 Tech Stack:
 <!-- https://icons8.com/icon/set/java/plasticine -->
-![Python](https://img.icons8.com/?size=75&id=YX03OUiHE3rz&format=png&color=000000) ![Java](https://img.icons8.com/?size=75&id=FBycNmdwUQz1&format=png&color=000000) ![C](https://img.icons8.com/?size=75&id=mfkStOwP4EC0&format=png&color=000000) ![HTML5](https://img.icons8.com/?size=75&id=D2Hi2VkJSi33&format=png&color=000000) ![CSS3](https://img.icons8.com/?size=75&id=YjeKwnSQIBUq&format=png&color=000000) ![JavaScript](https://img.icons8.com/?size=75&id=gYCTehfTlYk5&format=png&color=000000) ![Git](https://img.icons8.com/?size=75&id=iEBcQcM9rnZ9&format=png&color=000000) 
+![Python](https://img.icons8.com/?size=75&id=YX03OUiHE3rz&format=png&color=000000) 
+![Java](https://img.icons8.com/?size=75&id=FBycNmdwUQz1&format=png&color=000000) 
+![C](https://img.icons8.com/?size=75&id=mfkStOwP4EC0&format=png&color=000000) 
+![HTML5](https://img.icons8.com/?size=75&id=D2Hi2VkJSi33&format=png&color=000000) 
+![CSS3](https://img.icons8.com/?size=75&id=YjeKwnSQIBUq&format=png&color=000000) 
+![JavaScript](https://img.icons8.com/?size=75&id=gYCTehfTlYk5&format=png&color=000000) 
+![Git](https://img.icons8.com/?size=75&id=iEBcQcM9rnZ9&format=png&color=000000) 
+
 <details> 
   <summary><h2>📊 Stats and Activity</h2></summary>
 
