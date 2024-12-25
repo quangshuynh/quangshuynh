@@ -1,3 +1,4 @@
+<!-- Header -->
 <p align="center"><a href="https://quangshuynh.github.io/portfolio"><img width="80%" alt="Quang Huynh Github Header" src="./assets/github-readme-header.png" /></a></p>
 
 </br>
