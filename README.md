@@ -19,7 +19,7 @@
 ![SQL](https://img.icons8.com/?size=75&id=8ljTDYUEydbJ&format=png&color=000000)
 ![HTML5](https://img.icons8.com/?size=75&id=D2Hi2VkJSi33&format=png&color=000000) 
 ![CSS3](https://img.icons8.com/?size=75&id=YjeKwnSQIBUq&format=png&color=000000) 
-![JavaScript](https://img.icons8.com/?size=75&id=gYCTehfTlYk5&format=png&color=000000) 
+![JavaScript](https://img.icons8.com/?size=70&id=gYCTehfTlYk5&format=png&color=000000) 
 ![Git](https://img.icons8.com/?size=75&id=iEBcQcM9rnZ9&format=png&color=000000) 
 
 <details> 
