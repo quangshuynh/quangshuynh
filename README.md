@@ -16,6 +16,7 @@
 ![Python](https://img.icons8.com/?size=75&id=YX03OUiHE3rz&format=png&color=000000) 
 ![Java](https://img.icons8.com/?size=75&id=FBycNmdwUQz1&format=png&color=000000) 
 ![C](https://img.icons8.com/?size=75&id=mfkStOwP4EC0&format=png&color=000000) 
+![SQL](https://img.icons8.com/?size=75&id=8ljTDYUEydbJ&format=png&color=000000)
 ![HTML5](https://img.icons8.com/?size=75&id=D2Hi2VkJSi33&format=png&color=000000) 
 ![CSS3](https://img.icons8.com/?size=75&id=YjeKwnSQIBUq&format=png&color=000000) 
 ![JavaScript](https://img.icons8.com/?size=75&id=gYCTehfTlYk5&format=png&color=000000) 
