@@ -7,7 +7,6 @@
 - 🔍 Interested in Machine Learning, AI, System Design, Fullstack Development
 - 🏅 Honors: RIT Presidential Scholarship, Richard T. Cheng Endowed Scholar, Farash Foundation’s First in Family Scholar
 
-
 ## 🌐 Contact:
 [![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://linkedin.com/in/quangs)  [![Email](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-48.png)](mailto:qth9368@rit.edu)
   
