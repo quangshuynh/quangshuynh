@@ -5,7 +5,7 @@
 </br>
 
 - 🎓 Accelerated BS/MS in Computer Science at at RIT
-- 💻 Software Engineering Intern @ KORE Wireless
+- 💻 Prev Software Engineering Intern @ KORE Wireless
 - 🔍 Interested in Machine Learning, AI, System Design, Fullstack Development
 - 🏅 Honors: RIT Presidential Scholarship, Richard T. Cheng Endowed Scholar, Farash Foundation’s First in Family Scholar, Patrick P. Lee Scholar
 
