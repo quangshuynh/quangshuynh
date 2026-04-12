@@ -4,8 +4,8 @@
 
 </br>
 
-- 🎓 Accelerated BS/MS in Computer Science at at RIT
 - 💻 Incoming Summer/Fall Software Engineering Co-op @ Paychex. Prev. Software Engineering Co-op @ KORE Wireless
+- 🎓 Accelerated BS/MS in Computer Science at at RIT
 - 🔍 Interested in Machine Learning, AI, System Design, Fullstack Development
 - 🏅 Honors: RIT Presidential Scholarship, Richard T. Cheng Endowed Scholar, Farash Foundation’s First in Family Scholar, Patrick P. Lee Scholar
 
