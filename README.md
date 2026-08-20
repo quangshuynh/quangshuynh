@@ -4,13 +4,13 @@
 
 </br>
 
-- 💻 Incoming Summer/Fall Software Engineering Co-op @ Paychex | Prev. Software Engineering Co-op @ KORE Wireless
-- 🎓 Accelerated BS/MS in Computer Science at at RIT (3.6+ GPA) 
-- 🔍 Interested in Machine Learning, AI, System Design, Fullstack Development 
-- 🏅 Honors: RIT Presidential Scholarship, Richard T. Cheng Endowed Scholar, Farash Foundation’s First in Family Scholar, Patrick P. Lee Scholar
+- 💻 Computer Science student with professional software engineering experience at KORE Wireless
+- 🛠️ Interested in backend engineering, Python, automation, APIs, databases, and full-stack development
+- 🚀 Currently focused on building reliable software and strengthening my backend and data engineering skills
+- 🏅 Farash Foundation First in Family Scholar · Richard T. Cheng Endowed Scholar · Patrick P. Lee Scholar · RIT Presidential Scholar
 
 ## 🌐 Contact:
-[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://linkedin.com/in/quangs)  [![Email](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-48.png)](mailto:qth9368@rit.edu)
+[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://linkedin.com/in/quangs)  [![Email](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-48.png)](mailto:20378quang@gmail.com)
   
 ## 💻 Tech Stack:
 <!-- https://icons8.com/icon/set/java/plasticine -->
