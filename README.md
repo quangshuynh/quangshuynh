@@ -42,14 +42,3 @@
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
-
-<details> 
-
-  <h3>📈 Graph Activity</h3>
-
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Quang's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=quangshuynh&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" /></a>
-</details>
-
----
-
