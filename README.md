@@ -4,7 +4,7 @@
 
 </br>
 
-- 💻 BS/MS Computer Science student at **RIT** with professional software engineering experience at **KORE Wireless**
+- 💻 BS/MS CS @ **RIT** · Professional software engineering experience at **KORE Wireless**
 - 🛠️ Interested in backend engineering, Python, automation, APIs, databases, and full-stack development
 - 🚀 Building practical backend and data systems with an emphasis on validation, APIs, databases, testing, and automation
 - 🏅 Farash Foundation First in Family Scholar · Richard T. Cheng Endowed Scholar · Patrick P. Lee Scholar · RIT Presidential Scholar
