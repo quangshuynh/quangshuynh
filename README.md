@@ -18,4 +18,4 @@ Sometimes I build practical systems. Sometimes I build weird little experiments 
 **Python · TypeScript · C# · SQL** <br>
 FastAPI · PostgreSQL · React · Docker
 
-[Portfolio](https://quangshuynh.github.io/portfolio) | [Email](mailto:20378quang@gmail.com) | [LinkedIn](https://www.linkedin.com/in/quangs)
+| [Portfolio](https://quangshuynh.github.io/portfolio) | [Email](mailto:20378quang@gmail.com) | [LinkedIn](https://www.linkedin.com/in/quangs) |
