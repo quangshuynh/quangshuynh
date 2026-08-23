@@ -9,7 +9,7 @@
 
 <br>
 
-I like building software that makes something tedious simpler or starts with *"I wonder if I could build that."*
+I like building software that makes something tedious simpler or starts with *"<a href="https://github.com/quangshuynh?tab=repositories"><img src="./assets\text\iwonderificouldbuildthat_thin_italic.svg" align="absmiddle" alt="I wonder if I could build that" /></a>"*
 
 Most of my work gravitates toward backend systems, automation, developer tools, and messy data, usually with Python or TypeScript. I care about building things that work reliably, are understandable, and solve a real problem.
 
