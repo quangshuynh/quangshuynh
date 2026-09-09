@@ -6,7 +6,7 @@
 
 <br>
 
-I like building software that makes something tedious simpler or starts with *"<a href="https://github.com/quangshuynh?tab=repositories"><img src="./assets/text/iwonderificouldbuildthat_thin_italic.svg" align="absmiddle" alt="I wonder if I could build that" /></a>."*
+I like building software that makes something tedious simpler or starts with *I wonder if I could build that.*
 
 Most of my work gravitates toward reliable systems, automation, developer tools, and native applications, often with Python, TypeScript, or Swift. I care about software that behaves predictably, is understandable to maintain, and solves a real problem.
 
