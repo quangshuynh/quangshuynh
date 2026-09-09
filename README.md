@@ -1,9 +1,5 @@
-<!-- Header -->
-
-<!-- <p align="center"><a href="https://quangshuynh.github.io/portfolio"><img width="80%" alt="Quang Huynh Github Header" src="./assets/github-readme-header.png" /></a></p> -->
-
 <p align="center">
-  <a href="https://quangshuynh.github.io/portfolio">
+  <a href="https://quanghuynh.com/">
     <img width="80%" alt="Quang Huynh GitHub Header" src="https://i.imgur.com/BCn9pyd.png" />
   </a>
 </p>
@@ -30,4 +26,7 @@ FastAPI · PostgreSQL · SwiftUI · React · Docker
 | [Repo Radar](https://github.com/quangshuynh/repo-radar)                             | Active | Discovers and ranks repositories and open-source contribution opportunities based on developer interests.                                                              |
 | [Business Data Automation](https://github.com/quangshuynh/business-data-automation) | v1.0   | Validates business data, quarantines invalid records, reconciles payments, and exposes results through FastAPI.                                                        |
 
-| <a href="https://quangshuynh.github.io/portfolio/"><img src="./assets/text/portfolio2.svg" align="absmiddle" alt="Portfolio" /></a> | <a href="mailto:20378quang@gmail.com"><img src="./assets/text/email.svg" align="absmiddle" alt="Email" /></a> | <a href="https://www.linkedin.com/in/quangs/"><img src="./assets/text/linkedin.svg" align="absmiddle" alt="LinkedIn" /></a> |
+<br>
+
+| <a href="https://quanghuynh.com/"><img src="./assets/text/portfolio2.svg" align="absmiddle" alt="Portfolio" /></a> | <a href="mailto:20378quang@gmail.com"><img src="./assets/text/email.svg" align="absmiddle" alt="Email" /></a> | <a href="https://www.linkedin.com/in/quangs/"><img src="./assets/text/linkedin.svg" align="absmiddle" alt="LinkedIn" /></a> |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
