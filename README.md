@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://quanghuynh.com/">
-    <img width="80%" alt="Quang Huynh" src="https://i.imgur.com/BCn9pyd.png" />
+    <img width="80%" alt="Quang Huynh" src="./assets/github-readme-header.png" />
   </a>
 </p>
 
