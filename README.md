@@ -12,7 +12,7 @@ My work gravitates toward reliable systems, automation, developer tools, and nat
 
 Sometimes that's a practical system. Sometimes it's a weird little experiment just because it's interesting.
 
-**Python · TypeScript · Swift · C# · SQL** <br>
+**Python · Swift · TypeScript · C# · SQL** <br>
 FastAPI · PostgreSQL · SwiftUI · React · Docker
 
 ## Projects
