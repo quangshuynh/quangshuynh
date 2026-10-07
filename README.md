@@ -19,14 +19,13 @@ FastAPI · PostgreSQL · SwiftUI · React · Docker
 
 | Project | What it does |
 | --- | --- |
-| [ScribeKit](https://github.com/quangshuynh/scribekit) | Native macOS meeting transcription with selected-app audio capture, on-device speech recognition, and durable Markdown transcripts. |
-| [GitProfileLens](https://github.com/quangshuynh/gitprofilelens) | Audits GitHub profiles and repositories for presentation, discoverability, and actionable improvements. |
-| [Hymical Forms](https://github.com/hymical/forms) | Self-hostable form backend with durable webhook delivery, retries, idempotency, ownership fencing, and PostgreSQL-backed workers. |
+| [ScribeKit](https://github.com/quangshuynh/scribekit) | Native macOS meeting transcription with selected-app and microphone audio capture, on-device speech recognition, and durable Markdown transcripts. |
+| [DashPilot](https://github.com/quangshuynh/dashpilot) | Local-first iOS companion for delivery drivers that tracks shifts, stacked deliveries, journeys, mileage, earnings, expenses, and performance. |
 | [Flipper](https://github.com/quangshuynh/flipper) | Local-first reseller toolkit for deal research, sourcing economics, inventory, marketplace reconciliation, and realized profit tracking. |
-| [Repo Radar](https://github.com/quangshuynh/repo-radar) | Discovers and ranks repositories and open-source contribution opportunities based on developer interests. |
-| [Business Data Automation](https://github.com/quangshuynh/business-data-automation) | Validates business data, quarantines invalid records, reconciles payments, and exposes results through FastAPI. |
-| [DashPilot](https://github.com/quangshuynh/dashpilot) | Local-first iOS companion for delivery drivers that records mileage, deliveries, pickup waits, earnings, and shift performance. |
-| [mover-git](https://github.com/quangshuynh/mover-git) | Desktop utility for safely previewing, organizing, and moving files into Git repositories with automated batch commits and pushes. |
+| [Hymical Forms](https://github.com/hymical/forms) | Self-hostable form backend with durable webhook delivery, retries, idempotency, ownership fencing, and PostgreSQL-backed workers. |
+| [GitProfileLens](https://github.com/quangshuynh/gitprofilelens) | Audits GitHub profiles and repositories for presentation, discoverability, and actionable improvements. |
+| [Business Data Automation](https://github.com/quangshuynh/business-data-automation) | Validates business data, quarantines invalid records, reconciles payments, and exposes trustworthy results through FastAPI. |
+| [Repo Radar](https://github.com/quangshuynh/repo-radar) | Discovers and ranks repositories and open-source contribution opportunities using developer interests, feedback, and discovery history. |
 
 <br>
 
