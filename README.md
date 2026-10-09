@@ -9,7 +9,7 @@
 
 I like building software that makes something tedious simpler or starts with *I wonder if I could build that.*
 
-My work gravit toward reliable systems, automation, developer tools, and native applications. I care about software that behaves predictably, is understandable to maintain, and solves a real problem.
+My work gravitates toward reliable systems, automation, developer tools, and native applications. I care about software that behaves predictably, is understandable to maintain, and solves a real problem.
 
 Sometimes that's a practical system. Sometimes it's a weird little experiment just because it's interesting.
 
