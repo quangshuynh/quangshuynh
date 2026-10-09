@@ -1,3 +1,4 @@
+
 <p align="center">
   <a href="https://quanghuynh.com/">
     <img width="80%" alt="Quang Huynh" src="./assets/github-readme-header.png" />
@@ -8,7 +9,7 @@
 
 I like building software that makes something tedious simpler or starts with *I wonder if I could build that.*
 
-My work gravitates toward reliable systems, automation, developer tools, and native applications. I care about software that behaves predictably, is understandable to maintain, and solves a real problem.
+My work gravit toward reliable systems, automation, developer tools, and native applications. I care about software that behaves predictably, is understandable to maintain, and solves a real problem.
 
 Sometimes that's a practical system. Sometimes it's a weird little experiment just because it's interesting.
 
@@ -16,6 +17,34 @@ Sometimes that's a practical system. Sometimes it's a weird little experiment ju
 FastAPI · PostgreSQL · SwiftUI · React · Docker
 
 ## Projects
+
+<p align="center">
+  <a href="https://github.com/quangshuynh/scribekit">
+    <img
+      src="https://raw.githubusercontent.com/quangshuynh/portfolio/main/src/assets/scribekit/scribekit-app2.png"
+      height="180"
+      alt="ScribeKit macOS transcription interface"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/quangshuynh/dashpilot">
+    <img
+      src="https://raw.githubusercontent.com/quangshuynh/portfolio/main/src/assets/dashpilot/home-stacked-deliveries.png"
+      height="180"
+      alt="DashPilot iOS delivery tracking"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/quangshuynh/flipper">
+    <img
+      src="https://raw.githubusercontent.com/quangshuynh/portfolio/main/src/assets/flipper/flipper-dashboard.png"
+      height="180"
+      alt="Flipper reseller dashboard"
+    />
+  </a>
+</p>
+
+</br>
 
 | Project | What it does |
 | --- | --- |
@@ -30,7 +59,7 @@ FastAPI · PostgreSQL · SwiftUI · React · Docker
 <br>
 
 | <a href="https://quanghuynh.com/"><img src="./assets/text/portfolio2.svg" align="absmiddle" alt="Portfolio" /></a> | <a href="mailto:20378quang@gmail.com"><img src="./assets/text/email.svg" align="absmiddle" alt="Email" /></a> | <a href="https://www.linkedin.com/in/quangs/"><img src="./assets/text/linkedin.svg" align="absmiddle" alt="LinkedIn" /></a> |
-| ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| --- | --- | --- |
 
 <details>
   <summary>GitHub stats</summary>
