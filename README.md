@@ -44,7 +44,7 @@ FastAPI · PostgreSQL · SwiftUI · React · Docker
   </a>
 </p>
 
-</br>
+<br>
 
 | Project | What it does |
 | --- | --- |
