@@ -18,7 +18,7 @@ FastAPI · PostgreSQL · SwiftUI · React · Docker
 
 ## Projects
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/quangshuynh/scribekit">
     <img
       src="https://raw.githubusercontent.com/quangshuynh/portfolio/main/src/assets/scribekit/scribekit-app2.png"
@@ -44,7 +44,7 @@ FastAPI · PostgreSQL · SwiftUI · React · Docker
   </a>
 </p>
 
-<br>
+<br> -->
 
 | Project | What it does |
 | --- | --- |
