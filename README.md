@@ -18,43 +18,17 @@ FastAPI · PostgreSQL · SwiftUI · React · Docker
 
 ## Projects
 
-<!-- <p align="center">
-  <a href="https://github.com/quangshuynh/scribekit">
-    <img
-      src="https://raw.githubusercontent.com/quangshuynh/portfolio/main/src/assets/scribekit/scribekit-app2.png"
-      height="180"
-      alt="ScribeKit macOS transcription interface"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/quangshuynh/dashpilot">
-    <img
-      src="https://raw.githubusercontent.com/quangshuynh/portfolio/main/src/assets/dashpilot/home-stacked-deliveries.png"
-      height="180"
-      alt="DashPilot iOS delivery tracking"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/quangshuynh/flipper">
-    <img
-      src="https://raw.githubusercontent.com/quangshuynh/portfolio/main/src/assets/flipper/flipper-dashboard.png"
-      height="180"
-      alt="Flipper reseller dashboard"
-    />
-  </a>
-</p>
-
-<br> -->
-
 | Project | What it does |
 | --- | --- |
-| [ScribeKit](https://github.com/quangshuynh/scribekit) | Native macOS meeting transcription with selected-app and microphone audio capture, on-device speech recognition, and durable Markdown transcripts. |
-| [DashPilot](https://github.com/quangshuynh/dashpilot) | Local-first iOS companion for delivery drivers that tracks shifts, stacked deliveries, journeys, mileage, earnings, expenses, and performance. |
-| [Flipper](https://github.com/quangshuynh/flipper) | Local-first reseller toolkit for deal research, sourcing economics, inventory, marketplace reconciliation, and realized profit tracking. |
+| [Ordixa](https://github.com/quangshuynh/ordixa) | Business data automation platform for importing, validating, and reconciling Excel/CSV data, detecting exceptions, and generating auditable reports through reusable profiles. |
 | [Hymical Forms](https://github.com/hymical/forms) | Self-hostable form backend with durable webhook delivery, retries, idempotency, ownership fencing, and PostgreSQL-backed workers. |
-| [GitProfileLens](https://github.com/quangshuynh/gitprofilelens) | Audits GitHub profiles and repositories for presentation, discoverability, and actionable improvements. |
-| [Ordixa](https://github.com/quangshuynh/ordixa) | Profile-driven business data automation platform that imports and validates Excel/CSV files, reconciles payments, detects exceptions, and generates auditable reports. |
-| [Repo Radar](https://github.com/quangshuynh/repo-radar) | Discovers and ranks repositories and open-source contribution opportunities using developer interests, feedback, and discovery history. |
+| [DashPilot / Worklane](https://github.com/quangshuynh/dashpilot) | Local-first iOS application for gig workers to manage shifts, stacked deliveries, mileage, earnings, expenses, and work performance. |
+| [ScribeKit](https://github.com/quangshuynh/scribekit) | Native macOS transcription application with app and microphone audio capture, on-device speech recognition, and persistent Markdown transcripts. |
+| [Puzzlepress](https://github.com/quangshuynh/puzzlepress) | Python-powered puzzle book publishing toolkit with puzzle generation, reusable book layouts, cover templates, and print-ready production workflows. |
+| [Flipper](https://github.com/quangshuynh/flipper) | Local-first reseller toolkit for evaluating deals, tracking inventory, reconciling marketplace transactions, and calculating realized profit. |
+| [Chroma](https://github.com/quangshuynh/chroma) | Native macOS raster image editor exploring layers, painting tools, selections, and nondestructive editing workflows. |
+| [GitProfileLens](https://github.com/quangshuynh/gitprofilelens) | Developer tool that audits GitHub profiles and repositories for presentation, discoverability, and actionable improvements. |
+| [Repo Radar](https://github.com/quangshuynh/repo-radar) | Discovers and ranks open-source repositories and contribution opportunities using developer interests, feedback, and discovery history. |
 
 <br>
 
