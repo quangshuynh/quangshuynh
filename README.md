@@ -53,7 +53,7 @@ FastAPI · PostgreSQL · SwiftUI · React · Docker
 | [Flipper](https://github.com/quangshuynh/flipper) | Local-first reseller toolkit for deal research, sourcing economics, inventory, marketplace reconciliation, and realized profit tracking. |
 | [Hymical Forms](https://github.com/hymical/forms) | Self-hostable form backend with durable webhook delivery, retries, idempotency, ownership fencing, and PostgreSQL-backed workers. |
 | [GitProfileLens](https://github.com/quangshuynh/gitprofilelens) | Audits GitHub profiles and repositories for presentation, discoverability, and actionable improvements. |
-| [Business Data Automation](https://github.com/quangshuynh/business-data-automation) | Profile-driven business data automation platform that imports and validates Excel/CSV files, reconciles payments, detects exceptions, and generates auditable reports. |
+| [Ordixa](https://github.com/quangshuynh/ordixa) | Profile-driven business data automation platform that imports and validates Excel/CSV files, reconciles payments, detects exceptions, and generates auditable reports. |
 | [Repo Radar](https://github.com/quangshuynh/repo-radar) | Discovers and ranks repositories and open-source contribution opportunities using developer interests, feedback, and discovery history. |
 
 <br>
