@@ -20,15 +20,15 @@ FastAPI · PostgreSQL · SwiftUI · React · Docker
 
 | Project | What it does |
 | --- | --- |
-| [Ordixa](https://github.com/quangshuynh/ordixa) | Business data automation platform for importing, validating, and reconciling Excel/CSV data, detecting exceptions, and generating auditable reports through reusable profiles. |
-| [Hymical Forms](https://github.com/hymical/forms) | Self-hostable form backend with durable webhook delivery, retries, idempotency, ownership fencing, and PostgreSQL-backed workers. |
-| [DashPilot / Worklane](https://github.com/quangshuynh/dashpilot) | Local-first iOS application for gig workers to manage shifts, stacked deliveries, mileage, earnings, expenses, and work performance. |
-| [ScribeKit](https://github.com/quangshuynh/scribekit) | Native macOS transcription application with app and microphone audio capture, on-device speech recognition, and persistent Markdown transcripts. |
-| [Puzzlepress](https://github.com/quangshuynh/puzzlepress) | Python-powered puzzle book publishing toolkit with puzzle generation, reusable book layouts, cover templates, and print-ready production workflows. |
-| [Flipper](https://github.com/quangshuynh/flipper) | Local-first reseller toolkit for evaluating deals, tracking inventory, reconciling marketplace transactions, and calculating realized profit. |
-| [Chroma](https://github.com/quangshuynh/chroma) | Native macOS raster image editor exploring layers, painting tools, selections, and nondestructive editing workflows. |
-| [GitProfileLens](https://github.com/quangshuynh/gitprofilelens) | Developer tool that audits GitHub profiles and repositories for presentation, discoverability, and actionable improvements. |
-| [Repo Radar](https://github.com/quangshuynh/repo-radar) | Discovers and ranks open-source repositories and contribution opportunities using developer interests, feedback, and discovery history. |
+| [Ordixa](https://github.com/quangshuynh/ordixa) | Local-first tool for cleaning, reconciling, and comparing Excel/CSV business exports, with rules in reusable TOML profiles and verifiable report manifests. |
+| [Hymical Forms](https://github.com/hymical/forms) | Self-hostable form backend that validates and stores submissions, then delivers HMAC-signed webhooks through an idempotent, retrying, PostgreSQL-backed worker. |
+| [ScribeKit](https://github.com/quangshuynh/scribekit) | Native macOS transcription app that captures selected apps or a microphone, transcribes on-device with Apple's speech frameworks, and writes timestamped Markdown. |
+| [DashPilot](https://github.com/quangshuynh/dashpilot) | Local-first iOS app for delivery drivers to record shifts, stacked deliveries, mileage, earnings, and expenses, with explicit JSON/CSV export. |
+| [Flipper](https://github.com/quangshuynh/flipper) | Local-first reseller toolkit for researching deals, tracking inventory, reconciling eBay sales and fees, and measuring realized profit. |
+| [GitProfileLens](https://github.com/quangshuynh/gitprofilelens) | Web app that scores a GitHub profile's presentation from 0–100 and ranks recommendations for READMEs, descriptions, topics, and pinned repositories. |
+| [Chessed](https://github.com/quangshuynh/chessed) | Chess game reviewer for Chess.com games and pasted PGN, with in-browser Stockfish analysis, move classifications, and accuracy scores. |
+| [PuzzlePress](https://github.com/quangshuynh/puzzlepress) | Deterministic Python pipeline and local studio for planning, generating, validating, and packaging print-ready puzzle books. |
+| [Repo Radar](https://github.com/quangshuynh/repo-radar) | Local-first tool that recommends GitHub repositories and open contribution opportunities from your stars, saved projects, and feedback. |
 
 <br>
 
